@@ -7,4 +7,4 @@
 - To Identify if there is data imbalance in the data. Find the ratio of data imbalance.
 - To provide univariate and bivariate analysis w.r.t to ‘Target variable’ in the dataset (clients with payment difficulties and all other cases).
 - To brief the results of univariate, segmented univariate, bivariate analysis, etc. in business terms.
-- To Find the top 10 correlation for the Client with payment difficulties and all other cases (Target variable)
+- To Find the top 10 correlation for the Client with payment difficulties and all other cases (Target variable).
